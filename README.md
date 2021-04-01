@@ -5,7 +5,7 @@
 
 ### About me
 
-I'm  student at Etec Adolpho Berezin [@eteab] (https://eteab.com.br/cms//).
+I'm  student at Etec Adolpho Berezin [@eteab](https://eteab.com.br/cms//).
 
 
 
