@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi! I'm Carlos Eduardo :D
 
-<!--
-**KaduVieira13/KaduVieira13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```markdown
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/KaduVieira13)](https://github.com/KaduVieira13)
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```markdown
+### About me
+```
+I'm an IT student at EtecAb Adolpho Berezin ```markdown
+ [@eteab] (https://eteab.com.br/cms//).
